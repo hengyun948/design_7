@@ -1,0 +1,20 @@
+
+.container.data-v-743a7ac6 { padding: 16rpx;
+}
+.card.data-v-743a7ac6 { background: #fff; border-radius: 16rpx; padding: 32rpx;
+}
+.title.data-v-743a7ac6 { font-size: 34rpx; font-weight: bold; margin-bottom: 32rpx;
+}
+.rating-row.data-v-743a7ac6 { display: flex; align-items: center; margin-bottom: 24rpx; font-size: 28rpx;
+}
+.stars.data-v-743a7ac6 { display: flex; margin-left: 16rpx;
+}
+.star.data-v-743a7ac6 { font-size: 48rpx; color: #ddd; margin-right: 8rpx;
+}
+.star.active.data-v-743a7ac6 { color: #f39c12;
+}
+.textarea.data-v-743a7ac6 { width: 100%; height: 200rpx; border: 1rpx solid #eee; border-radius: 12rpx; padding: 16rpx; font-size: 28rpx; box-sizing: border-box;
+}
+.submit-btn.data-v-743a7ac6 { margin-top: 32rpx; background: #e74c3c; color: #fff; text-align: center; padding: 24rpx; border-radius: 40rpx; font-size: 30rpx;
+}
+

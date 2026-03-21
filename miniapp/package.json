@@ -1,0 +1,10 @@
+{
+  "name": "hotpot-miniapp",
+  "version": "1.0.0",
+  "description": "海明火锅店微信小程序",
+  "main": "main.js",
+  "scripts": {},
+  "dependencies": {
+    "vue": "^3.2.45"
+  }
+}

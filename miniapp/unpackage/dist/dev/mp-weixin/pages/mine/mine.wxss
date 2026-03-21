@@ -1,0 +1,20 @@
+
+.container.data-v-dcbcfe34 { padding: 32rpx;
+}
+.header.data-v-dcbcfe34 { display: flex; align-items: center; background: #fff; border-radius: 16rpx; padding: 40rpx; margin-bottom: 32rpx;
+}
+.avatar.data-v-dcbcfe34 { width: 100rpx; height: 100rpx; border-radius: 50%; background: #e74c3c; color: #fff; font-size: 48rpx; display: flex; align-items: center; justify-content: center;
+}
+.nickname.data-v-dcbcfe34 { margin-left: 24rpx; font-size: 34rpx; font-weight: bold;
+}
+.login-btn.data-v-dcbcfe34 { background: #e74c3c; color: #fff; text-align: center; padding: 24rpx; border-radius: 40rpx; font-size: 30rpx;
+}
+.menu-list.data-v-dcbcfe34 { background: #fff; border-radius: 16rpx; overflow: hidden;
+}
+.menu-item.data-v-dcbcfe34 { display: flex; justify-content: space-between; align-items: center; padding: 32rpx; border-bottom: 1rpx solid #f5f5f5; font-size: 28rpx;
+}
+.arrow.data-v-dcbcfe34 { color: #999;
+}
+.logout-btn.data-v-dcbcfe34 { text-align: center; padding: 32rpx; color: #e74c3c; font-size: 28rpx;
+}
+
